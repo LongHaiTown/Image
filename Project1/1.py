@@ -21,3 +21,5 @@ imgMerged_rgb = cv2.cvtColor(imgMerged, cv2.COLOR_BGR2RGB)
 plt.subplot(144); plt.imshow(imgMerged_rgb); plt.title("Merged Output")
 
 plt.show()
+
+print("Hello World")
